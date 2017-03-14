@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item android:id="@+id/toolbar_redo"
+        android:title="撤销"
+        android:icon="@mipmap/icon_redo"
+        app:showAsAction="always"/>
+
+    <item android:id="@+id/toolbar_clear"
+        android:title="清空"
+        android:icon="@mipmap/icon_clear"
+        app:showAsAction="always"/>
+
+    <item android:id="@+id/toolbar_line"
+        android:title="线条"
+        android:icon="@mipmap/icon_line"
+        app:showAsAction="never"/>
+
+    <item android:id="@+id/toolbar_rect"
+        android:title="矩形"
+        android:icon="@mipmap/icon_rect"
+        app:showAsAction="never"/>
+
+    <item android:id="@+id/toolbar_oval"
+        android:title="椭圆"
+        android:icon="@mipmap/icon_oval"
+        app:showAsAction="never"/>
+    <item android:id="@+id/toolbar_circle"
+        android:title="圆形"
+        android:icon="@mipmap/icon_circle"
+        app:showAsAction="never"/>
+</menu>
