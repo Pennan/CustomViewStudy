@@ -9,6 +9,10 @@
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/03graphics2d" />
+            <option value="$PROJECT_DIR$/05shadow" />
+            <option value="$PROJECT_DIR$/06customview" />
+            <option value="$PROJECT_DIR$/07customviewgroup" />
+            <option value="$PROJECT_DIR$/08scroller" />
             <option value="$PROJECT_DIR$/app" />
             <option value="$PROJECT_DIR$/doublebuffer" />
           </set>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_scroll_to_by"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.np.a08scroller.demo1.ScrollToByActivity">
+
+    <LinearLayout
+        android:id="@+id/layout"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:padding="20dp"
+        android:background="@android:color/darker_gray">
+
+        <TextView
+            android:id="@+id/textView"
+            android:layout_width="match_parent"
+            android:layout_height="100dp"
+            android:background="@color/colorAccent"
+            android:text="Android" />
+
+        <Button
+            android:id="@+id/scrollTo"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="scrollTo"
+            android:textAllCaps="false" />
+
+        <Button
+            android:id="@+id/scrollBy"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="scrollBy"
+            android:textAllCaps="false" />
+    </LinearLayout>
+</RelativeLayout>

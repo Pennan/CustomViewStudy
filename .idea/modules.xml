@@ -3,6 +3,10 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/03graphics2d/03graphics2d.iml" filepath="$PROJECT_DIR$/03graphics2d/03graphics2d.iml" />
+      <module fileurl="file://$PROJECT_DIR$/05shadow/05shadow.iml" filepath="$PROJECT_DIR$/05shadow/05shadow.iml" />
+      <module fileurl="file://$PROJECT_DIR$/06customview/06customview.iml" filepath="$PROJECT_DIR$/06customview/06customview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/07customviewgroup/07customviewgroup.iml" filepath="$PROJECT_DIR$/07customviewgroup/07customviewgroup.iml" />
+      <module fileurl="file://$PROJECT_DIR$/08scroller/08scroller.iml" filepath="$PROJECT_DIR$/08scroller/08scroller.iml" />
       <module fileurl="file://$PROJECT_DIR$/CustomViewStudy.iml" filepath="$PROJECT_DIR$/CustomViewStudy.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/doublebuffer/doublebuffer.iml" filepath="$PROJECT_DIR$/doublebuffer/doublebuffer.iml" />

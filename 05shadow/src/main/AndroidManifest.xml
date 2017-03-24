@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.np.a05shadow">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".demo1.ShaderActivity" />
+        <activity android:name=".demo2.LinearGradientActivity" />
+        <activity android:name=".demo3.RadialGradientActivity" />
+        <activity android:name=".demo4.ChessActivity" />
+        <activity android:name=".demo5.SweepGradientActivity" />
+        <activity android:name=".demo6.BitmapShaderActivity" />
+        <activity android:name=".demo7.ComposeShaderActivity" />
+        <activity android:name=".demo8.GradientMatrixActivity" />
+        <activity android:name=".demo9.demo1.PorterDuffActivity" />
+        <activity android:name=".MainPorterDuffActivity" />
+        <activity android:name=".demo9.demo2.PorterDuffActivity2" />
+        <activity android:name=".demo9.demo3.CirclePhotoActivity" />
+        <activity android:name=".demo9.demo4.CirclePhotoActivity2" />
+        <activity android:name=".demo9.demo5.AnyPhotoActivity" />
+        <activity android:name=".demo9.demo6.ScratchMusicActivity"></activity>
+    </application>
+
+</manifest>

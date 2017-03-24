@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:np="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_water_image_view"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.np.a06customview.demo5.WaterImageViewActivity">
+
+    <include
+        android:id="@+id/include_toolbar"
+        layout="@layout/layout_toolbar" />
+
+    <com.np.a06customview.demo5.WaterImageView
+        android:id="@+id/water_image_view"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@id/include_toolbar"
+        android:background="@mipmap/meinv4"
+        np:water_position="left_top"
+        np:water_text="德玛西亚"
+        np:water_image="@mipmap/ic_launcher"/>
+
+</RelativeLayout>

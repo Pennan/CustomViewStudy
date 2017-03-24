@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.np.a06customview">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".demo1.FirstActivity" />
+        <activity android:name=".demo2.AttrActivity" />
+        <activity android:name=".demo3.CircleImageViewActivity" />
+        <activity
+            android:name=".demo4.CodeViewActivity"
+            android:theme="@style/AppTheme.NoTitle" />
+        <activity android:name=".demo5.WaterImageViewActivity"
+            android:theme="@style/AppTheme.NoTitle" />
+    </application>
+
+</manifest>

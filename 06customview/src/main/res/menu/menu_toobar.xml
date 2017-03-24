@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/toolbar_refresh"
+        android:title="刷新"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/toolbar_update_color"
+        android:title="改变字体颜色"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/toolbar_update_text"
+        android:title="改变字体大小"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/toolbar_code_num"
+        android:title="改变随机数个数"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/toolbar_line_num"
+        android:title="改变干扰线个数"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/toolbar_get_code"
+        android:title="获取验证码"
+        app:showAsAction="never"/>
+</menu>
