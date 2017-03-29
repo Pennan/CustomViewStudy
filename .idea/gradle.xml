@@ -13,6 +13,8 @@
             <option value="$PROJECT_DIR$/06customview" />
             <option value="$PROJECT_DIR$/07customviewgroup" />
             <option value="$PROJECT_DIR$/08scroller" />
+            <option value="$PROJECT_DIR$/09sidemenu" />
+            <option value="$PROJECT_DIR$/10listview" />
             <option value="$PROJECT_DIR$/app" />
             <option value="$PROJECT_DIR$/doublebuffer" />
           </set>

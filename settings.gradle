@@ -1,1 +1,1 @@
-include ':app', ':03graphics2d', ':doublebuffer', ':05shadow', ':06customview', ':07customviewgroup', ':08scroller'
+include ':app', ':03graphics2d', ':doublebuffer', ':05shadow', ':06customview', ':07customviewgroup', ':08scroller', ':09sidemenu', ':10listview'

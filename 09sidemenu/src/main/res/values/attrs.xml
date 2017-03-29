@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="SliderMenu">
+        <!--侧边栏宽度-->
+        <attr name="sliding_width" format="dimension" />
+        <!--分割线宽度-->
+        <attr name="separator_width" format="dimension" />
+        <!--手指滑动感应宽度-->
+        <attr name="touch_width" format="dimension" />
+    </declare-styleable>
+    
+    <declare-styleable name="SliderMenu2">
+        <!-- 指定侧边栏宽度 -->
+        <attr name="left_padding_width" format="dimension" />
+    </declare-styleable>
+</resources>

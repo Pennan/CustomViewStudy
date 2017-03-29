@@ -7,6 +7,8 @@
       <module fileurl="file://$PROJECT_DIR$/06customview/06customview.iml" filepath="$PROJECT_DIR$/06customview/06customview.iml" />
       <module fileurl="file://$PROJECT_DIR$/07customviewgroup/07customviewgroup.iml" filepath="$PROJECT_DIR$/07customviewgroup/07customviewgroup.iml" />
       <module fileurl="file://$PROJECT_DIR$/08scroller/08scroller.iml" filepath="$PROJECT_DIR$/08scroller/08scroller.iml" />
+      <module fileurl="file://$PROJECT_DIR$/09sidemenu/09sidemenu.iml" filepath="$PROJECT_DIR$/09sidemenu/09sidemenu.iml" />
+      <module fileurl="file://$PROJECT_DIR$/10listview/10listview.iml" filepath="$PROJECT_DIR$/10listview/10listview.iml" />
       <module fileurl="file://$PROJECT_DIR$/CustomViewStudy.iml" filepath="$PROJECT_DIR$/CustomViewStudy.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/doublebuffer/doublebuffer.iml" filepath="$PROJECT_DIR$/doublebuffer/doublebuffer.iml" />
